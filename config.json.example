@@ -1,0 +1,13 @@
+{
+    "prefix": "%",
+    "plugins": [
+        "meta",
+        "giveaway"
+    ],
+
+    "token": "YOUR_BOT_TOKEN",
+
+    "db_name": "",
+    "db_host": "mongodb+srv://<user>:<password>@<...>.<...>.mongodb.net",
+    "db_port": null
+}
